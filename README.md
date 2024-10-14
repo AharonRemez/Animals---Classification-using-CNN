@@ -10,9 +10,9 @@ The goal of this project is to develop a deep learning model capable of accurate
 - **Training Loss:** 0.1425
 - **Validation Loss:** 1.1836
 #### Accuracy and Loss Graphs
-![Accuracy and Loss Graphs](Accuracy and Loss Graphs.png)
+![Accuracy and Loss Graphs](Confusion-Matrix.png.png)
 #### Confusion Matrix
-![Confusion Matrix](Confusion Matrix.png)
+![Confusion Matrix](Confusion-Matrix.png.png)
 ## Configuration
 - The model was trained with the following configuration:
 
