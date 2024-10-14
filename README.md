@@ -69,7 +69,7 @@ model = Sequential([
     layers.Flatten(),
     layers.Dense(256, activation='relu'),
     layers.Dense(128, activation='relu'),
-    layers.Dense(len(CLASS_NAMES))  # Number of categories
+    layers.Dense(len(CLASS_NAMES))
 ])
 ```
 - The model was compiled using the Adam optimizer and the SparseCategoricalCrossentropy loss function.
